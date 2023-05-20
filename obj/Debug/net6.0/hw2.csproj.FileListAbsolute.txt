@@ -1,0 +1,15 @@
+C:\Users\nicha\Desktop\hw2\bin\Debug\net6.0\hw2.exe
+C:\Users\nicha\Desktop\hw2\bin\Debug\net6.0\hw2.deps.json
+C:\Users\nicha\Desktop\hw2\bin\Debug\net6.0\hw2.runtimeconfig.json
+C:\Users\nicha\Desktop\hw2\bin\Debug\net6.0\hw2.dll
+C:\Users\nicha\Desktop\hw2\bin\Debug\net6.0\hw2.pdb
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.csproj.AssemblyReference.cache
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.AssemblyInfoInputs.cache
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.AssemblyInfo.cs
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.dll
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\refint\hw2.dll
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.pdb
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\hw2.genruntimeconfig.cache
+C:\Users\nicha\Desktop\hw2\obj\Debug\net6.0\ref\hw2.dll
